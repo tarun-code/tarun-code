@@ -64,6 +64,7 @@ Docker | Kubernetes | Helm | EKS
   <img src="https://img.shields.io/badge/CloudFormation-AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 Terraform | CloudFormation
+
 ---
 
 ### 🔄 **CI/CD & Release Engineering**
@@ -76,6 +77,7 @@ Terraform | CloudFormation
   <img src="https://img.shields.io/badge/Nexus-Repository-black?style=for-the-badge&logo=sonatype&logoColor=white"/>
 </p>
 Jenkins | ArgoCD | GitOps | Maven | Nexus | Groovy | GitLab CI
+
 ---
 
 ### 🔐 **DevSecOps**
@@ -95,6 +97,7 @@ Trivy | SonarQube | OWASP | Docker Scout | IAM | NACLs
   <img src="https://img.shields.io/badge/CloudWatch-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 Prometheus | Grafana | ELK Stack | CloudWatch
+
 ---
 
 ### 🐧 **Operating Systems**
@@ -122,6 +125,7 @@ Bash | Python | YAML | Dockerfile
   <img src="https://img.shields.io/badge/ChatGPT-OpenAI-green?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 GitHub Copilot | Amazon Q | Gemini CLI | ChatGPT | Kiro
+
 ---
 
 ## 🏆 AWS Certification
