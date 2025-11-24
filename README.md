@@ -86,7 +86,7 @@ GitHub Copilot | Amazon Q | Gemini CLI | ChatGPT | Kiro
 ## 🏆 AWS Certification  
 🎓 **AWS Certified Cloud Practitioner**  
 📅 Issued: *April 2025*  
-🔗 *Verification link (add when available):*  
+🔗 *Verification link :*  
 👉 [https://aws.amazon.com/verification](https://www.credly.com/badges/f7916ed9-1d55-41e7-bbc0-222b47d6e4c3/public_url)  
 
 ---
