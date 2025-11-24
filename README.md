@@ -66,16 +66,6 @@ GitHub Copilot | Amazon Q | Gemini CLI | ChatGPT
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarun-code&show_icons=true&theme=tokyonight" alt="stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-code&layout=compact&theme=tokyonight" alt="top langs" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarun-code&theme=tokyonight" alt="streak" height="170">
-</p>
 
 ---
 
