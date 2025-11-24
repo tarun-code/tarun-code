@@ -4,7 +4,7 @@
 
 <!-- Terminal-Themed DevOps Banner -->
 <p align="center">
-  <img src="/mnt/data/A_terminal-style_banner_image_features_Tarun_Kumar.png" width="100%" />
+  <img src="banner_devops.png" width="100%" />
 </p>
 
 <h3 align="center">Cloud & DevOps Engineer • AWS Certified • Terraform • Kubernetes • CI/CD • Linux</h3>
