@@ -155,7 +155,7 @@ https://www.credly.com/badges/f7916ed9-1d55-41e7-bbc0-222b47d6e4c3/public_url
 
 ## 💬 Let’s Connect
 <p>
-  <a href="https://www.linkedin.com/in/tarun-shori-ab75a817b/">
+  <a href="https://www.linkedin.com/in/tarun-shori/">
     <img src="https://img.shields.io/badge/LinkedIn-Tarun%20Shori-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:Tarunshori801@gmail.com">
